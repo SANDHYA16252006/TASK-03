@@ -1,1 +1,2 @@
-# TASK-03
+ TASK-03
+The objective is to implement and understand both simple and multiple linear regression using tools like Scikit-learn, Pandas, and Matplotlib. Participants are required to import and preprocess a relevant dataset (such as the House Price Prediction dataset), split the data into training and testing sets, and fit a linear regression model using sklearn.linear_model. The model's performance should be evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score. Additionally, participants are expected to visualize the regression line and interpret the model coefficients.
